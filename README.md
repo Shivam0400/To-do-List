@@ -1,6 +1,6 @@
 # 📝 To-Do List  
 
-![To-Do List](logo.png)  
+![To-Do List](To-Do_List.png)  
 
 ## 📌 Overview  
 This **To-Do List Web App** helps users manage their daily tasks efficiently. It allows users to add, delete, and mark tasks as completed, ensuring better productivity and organization.  
